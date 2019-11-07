@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
+  "name": "hash.fail",
+  "shortDesc": "There's no reason to assume that this will be anything other than a day of reckoning for all those that have long since knew that hash.fail would soon arise to its rightful place as the ultimate arbiter of knowledge, justice, wisdom & truth [this is a joke, obviously, just writing in filler content because I need to continue to arrange the ",
+  "url": "https://hash.fail",
+  "authorEmail": "info@hash.fail",
+  "authorHandle": "@zerononcense",
   "authorName": "Andy Bell",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "n/a",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }
